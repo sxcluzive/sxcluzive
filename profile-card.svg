@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="1180" viewBox="0 0 880 1180" fill="none" role="img" aria-label="Shubham Singh - Backend Engineer profile">
+<rect x="0" y="0" width="880" height="1180" rx="0" fill="#0d1117"/>
+<text x="44" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#00C896" font-weight="500" text-anchor="start" letter-spacing="2.2">// SHUBHAM SINGH</text>
+<text x="44" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" letter-spacing="-0.5"><tspan fill="#e6edf3" font-weight="600">Backend</tspan><tspan fill="#e6edf3" font-weight="300"> Engineer</tspan></text>
+<text x="44" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15"><tspan fill="#adbac7">Ex&#8211;Zscaler &amp; Sierra Wireless (Semtech)</tspan><tspan fill="#7d8590"> &#183; Hyderabad, India &#183; 4 yrs</tspan></text>
+<rect x="44" y="162" width="3" height="86" fill="#00C896"/>
+<text x="62" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#adbac7" font-weight="400" text-anchor="start">I build backend systems at the intersection of LLMs and production infrastructure &#8212;</text>
+<text x="62" y="211" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#adbac7" font-weight="400" text-anchor="start">NL&#8594;SQL pipelines, semantic caching layers, async APIs, and distributed workflows.</text>
+<text x="62" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#adbac7" font-weight="400" text-anchor="start">Things that scale, recover, and don't wake anyone up at 3am.</text>
+<rect x="44" y="278" width="792" height="40" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<circle cx="62" cy="298.0" r="4" fill="#00C896"/>
+<text x="78" y="302.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13"><tspan fill="#adbac7">currently building </tspan><tspan fill="#00C896">feature flag APIs</tspan><tspan fill="#adbac7"> &#183; open to </tspan><tspan fill="#00C896">SDE2 &amp; Senior Software Engineer</tspan><tspan fill="#adbac7"> roles</tspan></text>
+<line x1="44" y1="352" x2="836" y2="352" stroke="#21262d" stroke-width="1"/>
+<text x="44" y="388" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#484f58" font-weight="400" text-anchor="start" letter-spacing="2">// STACK</text>
+<rect x="44" y="404" width="71.0" height="28" rx="14" fill="rgba(0,200,150,0.07)" stroke="#00C896" stroke-width="1"/>
+<text x="79.5" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#00C896" font-weight="400" text-anchor="middle">Python</text>
+<rect x="123.0" y="404" width="78.5" height="28" rx="14" fill="rgba(0,200,150,0.07)" stroke="#00C896" stroke-width="1"/>
+<text x="162.25" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#00C896" font-weight="400" text-anchor="middle">FastAPI</text>
+<rect x="209.5" y="404" width="71.0" height="28" rx="14" fill="rgba(0,200,150,0.07)" stroke="#00C896" stroke-width="1"/>
+<text x="245.0" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#00C896" font-weight="400" text-anchor="middle">Docker</text>
+<rect x="288.5" y="404" width="93.5" height="28" rx="14" fill="rgba(0,200,150,0.07)" stroke="#00C896" stroke-width="1"/>
+<text x="335.25" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#00C896" font-weight="400" text-anchor="middle">LangChain</text>
+<rect x="390.0" y="404" width="93.5" height="28" rx="14" fill="rgba(0,200,150,0.07)" stroke="#00C896" stroke-width="1"/>
+<text x="436.75" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#00C896" font-weight="400" text-anchor="middle">LangGraph</text>
+<rect x="491.5" y="404" width="101.0" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="542.0" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#adbac7" font-weight="400" text-anchor="middle">PostgreSQL</text>
+<rect x="600.5" y="404" width="63.5" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="632.25" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#adbac7" font-weight="400" text-anchor="middle">Redis</text>
+<rect x="672.0" y="404" width="63.5" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="703.75" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#adbac7" font-weight="400" text-anchor="middle">Kafka</text>
+<rect x="743.5" y="404" width="63.5" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="775.25" y="422.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#adbac7" font-weight="400" text-anchor="middle">Linux</text>
+<rect x="44" y="442" width="71.0" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="79.5" y="460.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#adbac7" font-weight="400" text-anchor="middle">Celery</text>
+<rect x="123.0" y="442" width="93.5" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="169.75" y="460.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#adbac7" font-weight="400" text-anchor="middle">REST APIs</text>
+<rect x="224.5" y="442" width="101.0" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="275.0" y="460.3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#adbac7" font-weight="400" text-anchor="middle">SQLAlchemy</text>
+<line x1="44" y1="506" x2="836" y2="506" stroke="#21262d" stroke-width="1"/>
+<text x="44" y="542" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#484f58" font-weight="400" text-anchor="start" letter-spacing="2">// NUMBERS</text>
+<rect x="44.0" y="558" width="148.8" height="96" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="58.0" y="596" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="600"><tspan fill="#00C896">4</tspan><tspan fill="#e6edf3"> yrs</tspan></text>
+<text x="58.0" y="618" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">backend experience</text>
+<rect x="204.8" y="558" width="148.8" height="96" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="218.8" y="596" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="600"><tspan fill="#00C896">45</tspan><tspan fill="#e6edf3">%</tspan></text>
+<text x="218.8" y="618" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">latency cut via</text>
+<text x="218.8" y="634" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">caching</text>
+<rect x="365.6" y="558" width="148.8" height="96" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="379.6" y="596" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="600"><tspan fill="#00C896">3</tspan><tspan fill="#e6edf3">m</tspan></text>
+<text x="379.6" y="618" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">NL&#8594;SQL (was 3</text>
+<text x="379.6" y="634" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">days)</text>
+<rect x="526.4000000000001" y="558" width="148.8" height="96" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="540.4000000000001" y="596" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="600"><tspan fill="#00C896">$50</tspan><tspan fill="#e6edf3">M</tspan></text>
+<text x="540.4000000000001" y="618" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">workflow value</text>
+<text x="540.4000000000001" y="634" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">shipped</text>
+<rect x="687.2" y="558" width="148.8" height="96" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="701.2" y="596" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="600"><tspan fill="#e6edf3">Top </tspan><tspan fill="#00C896">3</tspan><tspan fill="#e6edf3">%</tspan></text>
+<text x="701.2" y="618" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">LeetCode</text>
+<text x="701.2" y="634" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#484f58" font-weight="400" text-anchor="start">global rank</text>
+<line x1="44" y1="690" x2="836" y2="690" stroke="#21262d" stroke-width="1"/>
+<text x="44" y="726" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#484f58" font-weight="400" text-anchor="start" letter-spacing="2">// PROJECTS</text>
+<rect x="44" y="742" width="792" height="108" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="62" y="776" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14.5" font-weight="500"><tspan fill="#484f58">~/</tspan><tspan fill="#e6edf3">flags-feature-api</tspan></text>
+<text x="62" y="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#7d8590" font-weight="400" text-anchor="start">Feature flag REST API from scratch &#8212; gradual rollouts, kill-switches, per-environment targeting.</text>
+<rect x="62" y="824" width="60.1" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="92.05" y="838" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">FastAPI</text>
+<rect x="128.1" y="824" width="53.8" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="155.0" y="838" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Docker</text>
+<rect x="187.89999999999998" y="824" width="79.0" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="227.39999999999998" y="838" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">PostgreSQL</text>
+<rect x="272.9" y="824" width="53.8" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="299.79999999999995" y="838" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Python</text>
+<rect x="44" y="862" width="792" height="108" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="62" y="896" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14.5" font-weight="500"><tspan fill="#484f58">~/</tspan><tspan fill="#e6edf3">ecommerce-api</tspan></text>
+<text x="62" y="920" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#7d8590" font-weight="400" text-anchor="start">Production-grade backend &#8212; auth, orders, inventory, async task processing.</text>
+<rect x="62" y="944" width="60.1" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="92.05" y="958" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">FastAPI</text>
+<rect x="128.1" y="944" width="47.5" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="151.85" y="958" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Redis</text>
+<rect x="181.6" y="944" width="53.8" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="208.5" y="958" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Celery</text>
+<rect x="241.39999999999998" y="944" width="53.8" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="268.29999999999995" y="958" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Python</text>
+<rect x="44" y="982" width="792" height="108" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+<text x="62" y="1016" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14.5" font-weight="500"><tspan fill="#484f58">~/</tspan><tspan fill="#e6edf3">Slack-Bot</tspan></text>
+<text x="62" y="1040" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#7d8590" font-weight="400" text-anchor="start">Event-driven Slack integration for internal workflow automation. Actually useful.</text>
+<rect x="62" y="1064" width="53.8" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="88.9" y="1078" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Python</text>
+<rect x="121.8" y="1064" width="72.69999999999999" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="158.14999999999998" y="1078" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Slack API</text>
+<rect x="200.5" y="1064" width="66.4" height="20" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+<text x="233.7" y="1078" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#484f58" font-weight="400" text-anchor="middle">Webhooks</text>
+<line x1="44" y1="1114" x2="836" y2="1114" stroke="#21262d" stroke-width="1"/>
+<text x="44" y="1152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13"><tspan fill="#7d8590">&#8599; portfolio</tspan><tspan fill="#21262d">     &#183;     </tspan><tspan fill="#7d8590">&#8599; linkedin</tspan><tspan fill="#21262d">     &#183;     </tspan><tspan fill="#7d8590">&#8599; email</tspan></text>
+</svg>
