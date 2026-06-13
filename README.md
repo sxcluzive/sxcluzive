@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://github.com/sxcluzive">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=00C896&center=true&vCenter=true&width=600&height=60&lines=Backend+Engineer;LLMs+%C3%97+Production+Infrastructure;Ex-Zscaler+%26+Sierra+Wireless;Open+to+SDE2+%26+Senior+SWE+roles" alt="Shubham Singh" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=00C896&center=true&vCenter=true&width=620&height=60&lines=Backend+Engineer;LLMs+%C3%97+Production+Infrastructure;Ex-Zscaler+%26+Sierra+Wireless;Top+3%25+on+LeetCode;Open+to+SDE2+%26+Senior+SWE+roles" alt="Shubham Singh" />
 
 <p>
-  <code>Hyderabad, India</code> &nbsp;·&nbsp; <code>4 yrs backend</code> &nbsp;·&nbsp; <code>Top 3% on LeetCode</code>
+  <img src="https://img.shields.io/badge/Hyderabad,_India-161b22?style=flat-square&logo=googlemaps&logoColor=00C896" />
+  <img src="https://img.shields.io/badge/4_yrs_backend-161b22?style=flat-square&logo=cachet&logoColor=00C896" />
+  <img src="https://img.shields.io/badge/Top_3%25_LeetCode-161b22?style=flat-square&logo=leetcode&logoColor=00C896" />
 </p>
 
 <p>
@@ -46,16 +46,13 @@ Things that scale, recover, and don't wake anyone up at 3am.
 
 ---
 
-### 📊 GitHub
+### 📈 Impact
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sxcluzive&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C896&icon_color=00C896&text_color=adbac7" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxcluzive&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C896&text_color=adbac7" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sxcluzive&hide_border=true&background=0d1117&stroke=21262d&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=adbac7&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Latency-−45%25-00C896?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/NL→SQL-3_days_→_3_min-00C896?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Workflow_value-$50M-00C896?style=flat-square&labelColor=161b22" />
+</p>
 
 ---
 
