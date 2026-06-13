@@ -17,7 +17,7 @@ internal tooling adopted org-wide, built to scale, recover, and stay quiet at 3a
 
 ---
 
-### 🛠 Stack
+### Stack
 
 **Languages & Backend** &nbsp;
 <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=00C896" />
@@ -43,7 +43,7 @@ internal tooling adopted org-wide, built to scale, recover, and stay quiet at 3a
 
 ---
 
-### 📂 Projects
+### Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -53,25 +53,7 @@ internal tooling adopted org-wide, built to scale, recover, and stay quiet at 3a
 
 ---
 
-### 📈 Impact
-
-<p>
-  <img src="https://img.shields.io/badge/Adoption-100%2B_users-00C896?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Caching-sub--100ms-00C896?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Workflow-$50M%2Fyr-00C896?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Latency-−45%25-00C896?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Defects-−20%25-00C896?style=flat-square&labelColor=161b22" />
-</p>
-
----
-
-### 🎓 Education
-
-**B.Tech, Information Technology** · Lovely Professional University · `2017 – 2021`
-
----
-
-### 🔗 Links
+### Links
 
 <div align="center">
 
