@@ -9,7 +9,7 @@
 
 <p>
 Backend Engineer with 4+ years building scalable distributed systems and LLM-powered data platforms.<br>
-Low-latency APIs, async architectures, semantic caching, and LLM integration —<br>
+Low-latency APIs, async architectures, semantic caching, and LLM integration <br>
 internal tooling adopted org-wide, built to scale, recover, and stay quiet at 3am.
 </p>
 
@@ -47,9 +47,9 @@ internal tooling adopted org-wide, built to scale, recover, and stay quiet at 3a
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[flags-feature-api](https://github.com/sxcluzive/flags-feature-api)** | Feature flag REST API from scratch — gradual rollouts, kill-switches, per-environment targeting | `FastAPI` `Docker` `PostgreSQL` |
-| **[Order-Matching-System](https://github.com/sxcluzive/Order-Matching-System)** | Stock-exchange matching engine — price-time priority (best price first, FIFO on ties), per-stock order books, full test suite + CI | `Python 3.12` `uv` `pytest` `Docker` |
-| **[Slack-Bot](https://github.com/sxcluzive/Slack-Bot)** | NL querying chatbot — Google Gemini translates natural language into SQL for intuitive DB access | `Slack-Bolt` `Gemini API` `Docker` |
+| **[flags-feature-api](https://github.com/sxcluzive/flags-feature-api)** | Feature flag REST API from scratch, gradual rollouts, kill-switches, per-environment targeting | `FastAPI` `Docker` `PostgreSQL` |
+| **[Order-Matching-System](https://github.com/sxcluzive/Order-Matching-System)** | Stock-exchange matching engine, price-time priority (best price first, FIFO on ties), per-stock order books, full test suite + CI | `Python 3.12` `uv` `pytest` `Docker` |
+| **[Slack-Bot](https://github.com/sxcluzive/Slack-Bot)** | NL querying chatbot, Google Gemini translates natural language into SQL for intuitive DB access | `Slack-Bolt` `Gemini API` `Docker` |
 
 ---
 
