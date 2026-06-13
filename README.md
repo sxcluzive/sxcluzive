@@ -2,7 +2,7 @@
 
 Backend Engineer based in Hyderabad, India. Building systems where LLMs meet production infrastructure.
 
-Currently at **Sierra Wireless (Semtech)** — shipping NL→SQL pipelines, async APIs, and distributed backends. FastAPI, Python, and a deep affection for things that don't break at 3am.
+Software Engineer previously at **Zscaler** and **Sierra Wireless (Semtech)** — shipping NL→SQL pipelines, async APIs, and distributed backends. FastAPI, Python, and a deep affection for things that don't break at 3am.
 
 ---
 
@@ -29,10 +29,6 @@ Currently at **Sierra Wireless (Semtech)** — shipping NL→SQL pipelines, asyn
 ---
 
 ### Projects
-
-**[flags-feature-api](https://github.com/sxcluzive/flags-feature-api)**  
-Feature flag REST API built from scratch. Supports gradual rollouts, kill-switches, and per-environment targeting.  
-`FastAPI` `Python` `Docker` `PostgreSQL`
 
 **[ecommerce-api](https://github.com/sxcluzive/ecommerce-api)**  
 Production-grade e-commerce backend — auth, order management, async task processing.  
